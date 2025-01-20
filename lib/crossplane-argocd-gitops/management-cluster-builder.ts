@@ -9,7 +9,7 @@ import  { CrossplaneHelmProviderAddon } from './custom-addons/crossplane-helm-pr
 // import { TeamSpoc } from './custom-addons/secret-provider-secret';
 
 
-const gitUrl = 'https://github.com/ajpaws/eks-blueprints-workloads.git';
+const gitUrl = 'https://github.com/aws-samples/eks-blueprints-workloads.git';
 const k8sProviderVersion = 'v0.13.0';
 const UpboundEKSProviderVersion = 'v1.1.0';
 const helmProviderVersion = 'v0.19.0';
